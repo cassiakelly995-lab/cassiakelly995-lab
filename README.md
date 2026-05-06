@@ -1,7 +1,13 @@
+<div align="center">
+
 # Olá, eu sou Cássia Kelly 👋
 
-> Profissional administrativa com 9 anos na OAB Santana de Parnaíba  
+**Analista de Projetos & Desenvolvedora de Soluções Digitais**
+
+> Profissional administrativa com 10 anos na OAB Santana de Parnaíba  
 > que aprendeu a programar sozinha para resolver problemas reais.
+
+</div>
 
 ---
 
@@ -17,24 +23,38 @@
 
 ## 🛠️ Tecnologias que uso de verdade
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 ---
 
 ## 📌 Projetos em Destaque
 
-### ⚖️ [LexOS](https://github.com/cassiakelly995-lab/lexos)
-Sistema jurídico com IA para análise de processos e geração de petições — construído para advogados da assistência judiciária gratuita.
+| Projeto | Descrição |
+|---|---|
+| ⚖️ [LexOS](https://github.com/cassiakelly995-lab/lexos) | Sistema jurídico com IA para análise de processos e geração de petições |
+| 🤖 [Cássia Prompt](https://github.com/cassiakelly995-lab/-hub-orcamentos-v8) | Plataforma de prompts com Firebase, licenciamento e 10 personas profissionais |
+| 🏛️ [Painel de Atendimento OAB](https://github.com/cassiakelly995-lab/Paineldiaadia) | Painel interno diário — atendimentos, templates e gestão de fluxo |
+| 📊 [Gest-o-contador](https://github.com/cassiakelly995-lab/Gest-o-contador) | Dashboard de controle de impressões com contador diário determinístico |
+| 📁 [Demanda do Fórum](https://github.com/cassiakelly995-lab/demandadoforum) | Painel de demandas do fórum organizado por setor |
 
-### 🤖 [Cássia Prompt](https://github.com/cassiakelly995-lab/-hub-orcamentos-v8)
-Plataforma de prompts inteligentes com Firebase, sistema de licenciamento e 10 personas profissionais. 9 versões iteradas.
+---
 
-### 🏛️ [Painel de Atendimento OAB](https://github.com/cassiakelly995-lab/Paineldiaadia)
-Painel interno usado diariamente na subseção — controle de atendimentos, templates de mensagem e gestão de fluxo.
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cassiakelly995-lab&show_icons=true&theme=dark&hide_border=true&title_color=c9a84c&icon_color=c9a84c&text_color=e0d6c8&bg_color=0d0d0d)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cassiakelly995-lab&layout=compact&theme=dark&hide_border=true&title_color=c9a84c&text_color=e0d6c8&bg_color=0d0d0d)
+
+</div>
 
 ---
 
